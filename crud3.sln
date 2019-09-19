@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "crud3", "crud3\", "{6CBBA0CB-15B0-4E71-8F3A-4002526E6AFB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55374"
+		Debug.AspNetCompiler.PhysicalPath = "crud3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55374\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55374"
+		Release.AspNetCompiler.PhysicalPath = "crud3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55374\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55374"
+		SlnRelativePath = "crud3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBBA0CB-15B0-4E71-8F3A-4002526E6AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBBA0CB-15B0-4E71-8F3A-4002526E6AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073CE0C7-1E73-49B2-A2EC-895B54A4AF18}
+	EndGlobalSection
+EndGlobal
